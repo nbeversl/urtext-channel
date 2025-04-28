@@ -1,5 +1,6 @@
 {
   "schema_version": "3.0.0",
+  "repositories": [],
   "packages": [
     {
       "name": "Urtext for Sublime",
