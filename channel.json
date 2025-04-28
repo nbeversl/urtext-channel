@@ -2,7 +2,7 @@
   "schema_version": "3.0",
   "packages": [
     {
-      "name": "Urtext",
+      "name": "Urtext for Sublime",
       "details": "https://github.com/nbeversl/Urtext-Sublime",
       "releases": [
         {
