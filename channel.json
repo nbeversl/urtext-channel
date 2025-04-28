@@ -1,17 +1,7 @@
 {
-  "schema_version": "3.0.0",
-  "repositories": [],
-  "packages": [
-    {
-      "name": "Urtext for Sublime",
-      "details": "https://github.com/nbeversl/Urtext-Sublime",
-      "releases": [
-        {
-          "sublime_text": ">=3000",
-          "version": "v1.5.0",
-          "tags": true
-        }
-      ]
-    }
+  "$schema": "sublime://packagecontrol.io/schemas/channel",
+  "schema_version": "4.0.0",
+  "repositories": [
+    "https://github.com/nbeversl/Urtext-Sublime"
   ]
 }
